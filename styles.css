@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.clickme{
+  color: #fff;
+}
+.link-to{
+  text-decoration: none;
+  color:  #FEF2BF;
+}
